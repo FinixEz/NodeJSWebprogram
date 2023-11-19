@@ -1,8 +1,8 @@
 module.exports ={
     // Planetscale
     // HOST: "aws.connect.psdb.cloud",
-    // USER: "0li36tsbka7o2tepqemf",
-    // PASSWORD: "pscale_pw_NEwmNrVxgWv6clsv9ikYnKOYM6aq4SKtb64bamAWazB",
+    // USER: "2zil1xz2vfttqat74ghn",
+    // PASSWORD: "pscale_pw_bTnn5Nl0fo3kY0BPwrDd4ngB1evrnpiJX1ziz4OTPBf",
     // DB: "mydatabase_api"
 
     // FreeDb
